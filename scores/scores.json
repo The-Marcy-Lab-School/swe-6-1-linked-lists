@@ -1,0 +1,56 @@
+{
+  "testScores": {
+    "Linked List Tests": {
+      "LiLiTe1": 0,
+      "LiLiTe2": 0,
+      "LiLiTe3": 0,
+      "LiLiTe4": 0,
+      "LiLiTe5": 0,
+      "LiLiTe6": 0,
+      "LiLiTe7": 0,
+      "LiLiTe8": 0,
+      "LiLiTe9": 0,
+      "LiLiTe10": 0,
+      "LiLiTe11": 0,
+      "LiLiTe12": 0,
+      "LiLiTe13": 0,
+      "LiLiTe14": 0
+    }
+  },
+  "idToTestNameHash": {
+    "LiLiTe1": "Linked List Tests Node - has properties data and next",
+    "LiLiTe2": "Linked List Tests LinkedList - has property head",
+    "LiLiTe3": "Linked List Tests LinkedList - can append to tail for empty list",
+    "LiLiTe4": "Linked List Tests LinkedList - can append to tail for non-empty list",
+    "LiLiTe5": "Linked List Tests LinkedList - can prepend to head for empty list",
+    "LiLiTe6": "Linked List Tests LinkedList - can prepend to head for non-empty list",
+    "LiLiTe7": "Linked List Tests LinkedList - can remove the head and return its data",
+    "LiLiTe8": "Linked List Tests LinkedList - can check if data is in the list",
+    "LiLiTe9": "Linked List Tests LinkedList - can return the length of the list",
+    "LiLiTe10": "Linked List Tests isCyclic - returns false for non cycle",
+    "LiLiTe11": "Linked List Tests isCyclic - returns true for cycle",
+    "LiLiTe12": "Linked List Tests reverse - reverses a linkedlist",
+    "LiLiTe13": "Linked List Tests mergeLists - merges two linked lists",
+    "LiLiTe14": "Linked List Tests removeDuplicates - removed duplicates"
+  },
+  "testNameToIdHash": {
+    "Linked List Tests Node - has properties data and next": "LiLiTe1",
+    "Linked List Tests LinkedList - has property head": "LiLiTe2",
+    "Linked List Tests LinkedList - can append to tail for empty list": "LiLiTe3",
+    "Linked List Tests LinkedList - can append to tail for non-empty list": "LiLiTe4",
+    "Linked List Tests LinkedList - can prepend to head for empty list": "LiLiTe5",
+    "Linked List Tests LinkedList - can prepend to head for non-empty list": "LiLiTe6",
+    "Linked List Tests LinkedList - can remove the head and return its data": "LiLiTe7",
+    "Linked List Tests LinkedList - can check if data is in the list": "LiLiTe8",
+    "Linked List Tests LinkedList - can return the length of the list": "LiLiTe9",
+    "Linked List Tests isCyclic - returns false for non cycle": "LiLiTe10",
+    "Linked List Tests isCyclic - returns true for cycle": "LiLiTe11",
+    "Linked List Tests reverse - reverses a linkedlist": "LiLiTe12",
+    "Linked List Tests mergeLists - merges two linked lists": "LiLiTe13",
+    "Linked List Tests removeDuplicates - removed duplicates": "LiLiTe14"
+  },
+  "humanReadable": {
+    "Linked List Tests": "0/14",
+    "finalTestScore": "FINAL SCORE: 0/14"
+  }
+}
